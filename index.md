@@ -1,4 +1,4 @@
-## Welcome to My Page
+## Welcome to My Portfolio
 
 You can use the [editor on GitHub](https://github.com/HarryTheCoder-L/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
